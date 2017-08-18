@@ -1,13 +1,16 @@
 # Public UHC
-----
 
 An open-source simple UHC system for your server.
+
+# NOTICE
+This project is newly being developed! If you plan to use this on your server, make sure to get a stable release.
+Since this project is new, there are not going to be many stable releases. Sorry for the inconveniences!
 
 ## Features
 
   - NONE YET, THIS PROJECT IS JUST GETTING STARTED!
 
-## Todo
+## To Do List
 
   - UHC Itself
   - Simple API for adding more uhc modes/modules
@@ -15,6 +18,7 @@ An open-source simple UHC system for your server.
   - GUI Based UHC system
   - Custom world generation based on mode. (Can be added as a module)
   - Scoreboards/Titles/Actionbars/BossBar - We'll see where it goes.
+  - API (If requested enough, will work on after major pieces are done)
 
 ### A note on the scoreboards..
 We plan to be using an epic library known as [**SpigotLib**](https://www.spigotmc.org/resources/spigotlib.5925/).
@@ -40,7 +44,6 @@ Want to contribute? Great! Your work is extremely helpful since this is based of
 Due to the early development, please join our [Discord][discord]. Once joined, type `-role puhc` in the `#role-request` channel.
 
 # License
-----
 ## You MAY
   - Fork/Copy this project and edit it for personal use.
   - Use this software on your server.

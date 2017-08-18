@@ -4,3 +4,7 @@ main: com.itserikmc.open.publicuhc.PublicUHC
 authors: [ItsErikMC]
 description: An open-source simple UHC system.
 website: https://github.com/ItsErikMC/public-uhc/
+
+commands:
+  publicuhc:
+

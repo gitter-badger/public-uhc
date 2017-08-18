@@ -1,0 +1,15 @@
+# PublicUHC
+# Language File
+
+# Variables
+#Variables are small parts of text that change a message.
+#In this plugin, we do not use %player% do to the amount of messages.
+#Instead we use {#} where # is a number.
+#Each message that has a variable will be on the wiki, where is specifies which each number is.
+# Wiki - (Coming Soon)
+
+#To disable a global prefix, Change this to ''
+prefix: '&6&lPublicUHC &e'
+
+command:
+  senderNotPlayer: 'You must be a player to execute any PublicUHC commands.'
