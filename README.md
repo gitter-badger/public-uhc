@@ -1,5 +1,7 @@
 # Public UHC
 
+[![Join the chat at https://gitter.im/public-uhc/Lobby](https://badges.gitter.im/public-uhc/Lobby.svg)](https://gitter.im/public-uhc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An open-source simple UHC system for your server.
 
 # NOTICE
